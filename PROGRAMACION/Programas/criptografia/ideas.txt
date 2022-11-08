@@ -1,0 +1,10 @@
+
+------------------------------------ IDEAS-------------------------------------
+
+1) Un algoritmo criptografico que utilice los numeros decimales de los 256 caracteres ASCII para encriptar cualquier mensaje.
+
+2) Algoritmo criptografico que de input reciba una imagen con el contenido a encriptar a traves de cambiara de posicion todos los pixeles de la matriz.
+
+3) Hacer un algoritmo One-Time Pads:
+	- Sumas la letra dee la clave con su correspondiente del texto
+	- Descifras el codigo con la llave

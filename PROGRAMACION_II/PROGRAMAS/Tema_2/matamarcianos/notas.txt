@@ -1,0 +1,11 @@
+
+Para los enemigos tiene que haber tres tipos, los cuales seran estructuras:
+
+struct enemigo1{
+	int tipo;  // El tipo de enemigo
+	union{
+		// Las cualidades del enemigo
+	}
+}
+
+
